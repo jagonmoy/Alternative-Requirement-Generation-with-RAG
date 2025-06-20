@@ -1,4 +1,4 @@
-# Creative Requirement Generator (RAG + FLAN-T5 / BERT)
+# Alternative Requirement Generator (RAG + FLAN-T5 / BERT)
 
 This project is a prototype tool for generating creative software requirements using:
 - Retrieval-Augmented Generation (RAG)
